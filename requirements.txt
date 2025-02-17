@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+langchain-google-vertexai
+python-dotenv
+google-cloud-storage
+google-cloud-aiplatform
+pydantic
+qdrant-client
+python-multipart
+sentence-transformers
